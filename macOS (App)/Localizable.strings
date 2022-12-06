@@ -1,0 +1,6 @@
+"instructionsEnabledTitle"      = "Twitt-Block is enabled.";
+"instructionsEnabledFooter"     = "You’re all set!";
+
+"instructionsDisabledTitle"     = "Enable Twitt-Block in:";
+"instructionsDisabledMessage"   = "Safari → Settings… → Extensions";
+"instructionsDisabledFooter"    = "to enjoy a Twitter-less web.";

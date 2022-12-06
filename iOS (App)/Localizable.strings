@@ -1,0 +1,6 @@
+"instructionsEnabledTitle"      = "TwittBlock blocking is enabled.";
+"instructionsEnabledFooter"     = "You’re all set!";
+
+"instructionsDisabledTitle"     = "Enable TwittBlock in";
+"instructionsDisabledMessage"   = "Settings → Safari → Extensions";
+"instructionsDisabledFooter"    = "to enjoy a Twitter-less web.";

@@ -1,0 +1,12 @@
+[
+  {
+    "trigger": {
+      "url-filter": "^https?:/+([^/:]+\\.)?twitter\\.com[:/]",
+      "url-filter-is-case-sensitive": false,
+      "load-type": ["third-party", "first-party"]
+    },
+    "action": {
+      "type": "block"
+    }
+  }
+]

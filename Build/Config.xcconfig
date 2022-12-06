@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  GYST Timelines
+//
+//  Created by Bad Monkey on 10/22/22.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+VERSION = 1.0
+BUILD_NUMBER = 2022.12.06
