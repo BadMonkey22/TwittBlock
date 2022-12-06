@@ -16,6 +16,8 @@ I no longer wish to be part of Twitter, I don't see its value and I no longer wa
 
 Twitt-Block is a simple content blocker, that simply blocks Twitter.com. *Why?* Because, as I've said, I don't want to see the hate speech that Elon says is so valuable for social media like Twitter, and although I've stopped visiting Twitter, I do have friends and family that insist on sharing tweets and memes, and I just don't want to see it.
 
+Twitt-Block is based on [Ka-Block](https://github.com/dgraham/Ka-Block) by [David Graham](https://github.com/dgraham).
+
 
 ## Installation
 Twitt-Block is being made available in source form because I don't want to face the ire of angry Musk Fanboys who feel I'm disrespecting Twitter and Mr. Musk for some sort of gain.  I'm not, I don't care about him or his platform.
