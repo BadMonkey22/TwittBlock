@@ -6,7 +6,7 @@ But, when some thin-skinned rich twit with an over-inflated sense of self-import
 
 	"What's wrong with you? Do you hate free speech and America?"
 
-**No! Not at all!  I'm proud to be an American.**  I feel so lucky that as Americans, we have the freedoms that we do.  If I call out my senator for speeding down the highway and taking a photo of his odometer with his phone [LINK](https://github.com/BadMonkey22/TwittBlock/blob/main/JerryMoranOdometer.png), I don't need to worry about being sent off to a hard-labor camp as a political dissident.  
+**No! Not at all!  I'm proud to be an American.**  I feel so lucky that as Americans, we have the freedoms that we do.  If I call out my senator for speeding down the highway and taking a [photo of his odometer with his phone](https://github.com/BadMonkey22/TwittBlock/blob/main/JerryMoranOdometer.png), I don't need to worry about being sent off to a hard-labor camp as a political dissident.  
 
 I value the first amendment and I respect your freedom to invoke your first amendment rights as you see fit.  [However, the first amendment is *not* absolute](https://www.mtsu.edu/first-amendment/article/959/fighting-words).  The first amendment does not give Americans cart blanc to say whatever they want, whenever they want.  The first amendment also does not guarantee that your opinion *must or will be heard.* I do not expect that you will listen to anything I have to say. (I am married and a father, I'm used to being ignored.)
 
